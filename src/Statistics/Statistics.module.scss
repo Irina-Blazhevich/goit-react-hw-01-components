@@ -1,0 +1,27 @@
+.Statistics {
+  width: 483px;
+  border: 2px solid #000000;
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+.Title {
+  text-transform: uppercase;
+  text-align: center;
+}
+.StatsList {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  justify-content: space-between;
+  margin: 0;
+}
+.Item {
+  border-right: 1px solid #000000;
+  padding: 9px;
+}
+.Label {
+  font-size: 22px;
+}
+.Percentage {
+  font-size: 22px;
+}
